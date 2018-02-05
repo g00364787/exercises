@@ -1,0 +1,2 @@
+# exercises
+Weekly exercises
