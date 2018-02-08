@@ -1,6 +1,6 @@
 # WEEK 01
 #
-# filename= gmit--week01--FIBINACCI--20180123.py
+# OUTPUT FROM gmit--week01--FIBINACCI--20180123.py
 #
 # STUDENT ID= g00364787
 #
